@@ -1,5 +1,13 @@
 {
+  "name": "backlogin",
+  "version": "1.00",
+  "main": "app.js",
+  "type": "module",
   "dependencies": {
-    "express": "^4.21.1"
+    "body-parser": "^1.20.3",
+    "colors": "^1.4.0",
+    "connect-mongo": "^5.1.0",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
   }
 }
